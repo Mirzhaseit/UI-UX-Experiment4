@@ -3,6 +3,7 @@
 ## Aim:
 To create a basic wireframe of an application using Balsamiq focusing on structure and navigation.
 ## Algorithm:
+```
 Start the wireframing process using Balsamiq or any wireframing tool.
 
 Identify the key screens required for the application:
@@ -32,6 +33,7 @@ Ensure proper navigation flow between all screens.
 Keep the design low-fidelity (simple layout without colors or detailed graphics).
 
 Review and finalize the wireframe.
+```
 ## Output:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/71253ddb-ec24-439d-8afd-e6ebea502e9e" />
 
